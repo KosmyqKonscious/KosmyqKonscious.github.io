@@ -22,6 +22,8 @@ sass:
   style: :compressed
 ganalytics: UA-113961478-1
 
+remote_theme: pages-themes/dinky@v0.2.0
+
 # Authors
 authors:
   sal:
@@ -49,6 +51,7 @@ social:
 
 # Plugins
 plugins: 
+- jekyll-remote-theme
 - jekyll-paginate
 - jekyll-sitemap
 - jekyll-feed
